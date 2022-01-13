@@ -12,7 +12,7 @@
     "async-await-retry": "^1.2.1",
     "graphql": "^15.5.0",
     "graphql-request": "^3.4.0",
-    "nanoid": "^3.1.23",
+    "nanoid": "^3.1.31",
     "puppeteer": "^10.0.0"
   },
   "devDependencies": {
